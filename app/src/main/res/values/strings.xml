@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MySAmple</string>
+    <string name="ad_unit_id1_banner1">ca-app-pub-9381453940699212/9255789401</string>
+    <string name="ad_app_id">ca-app-pub-9381453940699212~7289259164></string>
+    <string name="ad_unit_id1_banner2">ca-app-pub-9381453940699212/8410769145</string>
+    <string name="ad_unit_id1_banner3">ca-app-pub-9381453940699212/4388172772</string>
+    <string name="ad_unit_id1_banner4">ca-app-pub-9381453940699212/4279952442</string>
+    <string name="ad_unit_id1_full">ca-app-pub-9381453940699212/4830616781</string>
+
+</resources>
