@@ -18,7 +18,7 @@ Button button;
             public void onClick(View v) {
                 Intent intent=new Intent(Dashboard.this,MainActivity.class);
                 startActivity(intent);
-                ///charan
+                ///charan basani
             }
         });
     }
