@@ -82,7 +82,7 @@ private AdView mAdView,mAdView1;
             public void onAdClicked() {
                 // Code to be executed when the user clicks on an ad.
             }
-//ghy
+//ghyhh
             @Override
             public void onAdLeftApplication() {
                 // Code to be executed when the user has left the app.
